@@ -11,7 +11,7 @@ https://tinypng.com
 ##Installation
 --------------------------
 
-This plugin is a "set up and leave it" plugin that only requires a small amount of initial setup. First, download the plugin from this repo by using the "Download ZIP" button to the right. Once you've got the plugin ZIP, simply log in to your WordPress admin panel, hover over plugins, and click add new. At the top of the next screen, you should see an upload link. Click this, and then click the button to select the plugin. After that, simply click upload, and on the next page click activate. You plugin is now installed.
+This plugin is a "set up and leave it" plugin that only requires a small amount of initial setup. First, download the plugin from this repo by using the "Download ZIP" button to the right. Once you've got the plugin ZIP, simply log in to your WordPress admin panel, hover over plugins, and click add new. At the top of the next screen, you should see an upload link. Click this, and then click the button to select the plugin. After that, simply click upload, and on the next page click activate. Your plugin is now installed.
 
 ##Setup
 -------------------------
