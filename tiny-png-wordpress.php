@@ -61,7 +61,7 @@ function tsd_tpng_filter_uploaded_images( $meta, $id ) {
 	$key = get_option('tsd_tpng_api_key');
 	$output = $input;
 
-	if($key != "" && $type == "image/png"){
+	if($key != "" && $type == "image/png" OR $key != "" && $type == "image/jpeg"){
 
 	$url = "https://api.tinypng.com/shrink";
 	$options = array(
